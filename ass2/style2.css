@@ -1,0 +1,39 @@
+h1 {
+    font-family: 'Bebas Neue', sans-serif;
+}
+body {
+    font-family: 'Special Elite', sans-serif;
+    background-image: url(logo3.png);
+    background-size: cover;
+  }
+ul{
+    font-family: 'Oswald', sans-serif;
+    font-size: x-large;
+    border-style: solid;
+    color: #F4D03F; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+}    
+h1, h2 {
+    color: #F4D03F; 
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
+  }
+#box1{
+    border: 5px solid;
+    width: 250;
+    height: 250;
+    padding: 20;
+    border-color: #F4D03F;
+}
+li:nth-child(2n+1){
+  background-color: 	#586A54;
+} 
+a:visited{
+  color: 	#20B2AA;
+}
+.fa-flask-vial{
+  color: aliceblue;
+  height: auto;
+}
+nav {
+  position: fixed;
+}
